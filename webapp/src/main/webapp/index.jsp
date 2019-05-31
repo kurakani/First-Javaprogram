@@ -31,7 +31,7 @@
 </head>
 <body>
     <h1>This the link to go to secound page</h1><br>
-    <h1>Working with Winson on the CI CD pipeline</h1>
+    <h1>Working with Cool Jeremy on Devops CI CD </h1>
 <a href="Hello.html">Clieck to go to secound page</a>
 </body>
 </html>
