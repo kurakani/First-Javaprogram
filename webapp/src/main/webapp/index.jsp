@@ -30,5 +30,7 @@
   </script>
 </head>
 <body>
+    <h1>This the link to go to secound page</h1><br>
+<a href="Hello.html">Clieck to go to secound page</a>
 </body>
 </html>
