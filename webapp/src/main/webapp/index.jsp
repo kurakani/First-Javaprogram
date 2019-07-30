@@ -30,8 +30,7 @@
   </script>
 </head>
 <body>
-    <h1>This the link to go to secound page</h1><br>
-    <h1>Working with Cool Jeremy on Devops CI CD </h1>
+    <h1>This link goes to the secound page</h1><br>
 <a href="Hello.html">Clieck to go to secound page</a>
 make a change
 </body>
